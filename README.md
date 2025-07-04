@@ -9,7 +9,7 @@ A simple weather application built with HTML, CSS, and JavaScript that allows us
 - Handles invalid or empty city names with user-friendly error messages
 
 ## Screenshots
-![Weather App Screenshot](images/clouds.png)
+![Weather App Screenshot](images/image.png)
 
 ## Getting Started
 
